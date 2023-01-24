@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --main: #04111d;
+    --shade_main: #0a1d2e;
+}
+
+html,
+body {
+    background-color: var(--main);
+    margin: 0;
+    padding: 0;
+
+}
+
+
+a {
+    color: inherit;
+    text-decoration: none;
+
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+.section1 {
+    clip-path: polygon(0 0, 100% 0, 100% 94%, 0 98%);
+}
+
+.section3 {
+    clip-path: polygon(0 8%, 100% 1%, 100% 93%, 0% 100%);
+    background-color: var(--shade_main);
+
+
+
+}
+
+.section2 h2,
+.section3 h2 {
+    display: flex;
+    justify-content: center;
+    color: #ffff
+}
+
+
+
+
+
+
+
+/* #checkkk {
+    max-height: 130px !important;
+    word-break: break-word !important;
+} */
