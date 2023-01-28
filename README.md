@@ -65,10 +65,10 @@ I aim to create an open and safe nft marketplace for everyone. This will be a ch
 
 **Project Author**
 
--Fabulousugo(https://github.com/fabulousugo)
-Amarannaya(https://github.com/amarannaya)
-Kosiso98(https://github.com/Kosiso98)
-David()
+-Fabulousugo(https://github.com/fabulousugo)<br/>
+Amarannaya(https://github.com/amarannaya)<br/>
+Kosiso98(https://github.com/Kosiso98)<br/>
+David(dave4sure)<br/>
 
 ## 🎉 Roadmap
 
