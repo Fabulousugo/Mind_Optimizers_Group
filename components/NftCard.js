@@ -4,6 +4,12 @@ import { useEffect, useState } from "react";
 import { BiHeart } from "react-icons/bi";
 import Router from 'next/router';
 
+/*This code is a React component called "NftCard" that displays an NFT (non-fungible token) card.
+ The component receives several props such as the title, likes, and nftItem.
+  It uses the useEffect hook to set the state for whether or not the NFT is listed for sale, 
+  and the state for the price of the NFT. The component then renders a div with a class of "wrapper" that has an onClick event that navigates to a page for the specific NFT using the Router component. 
+  The component also includes a nested div for the image, and another for the details of the NFT, such as the collection name, asset name, and price. 
+  Additionally, it also includes a like icon and a count of likes.*/
 const style = {
   wrapper: `bg-[#303339] flex-auto w-[14rem] h-[22rem] my-10 mx-5 rounded-2xl overflow-hidden cursor-pointer hover:shadow-2xl hover:bg-grey-100 hover:scale-105 transition transform duration-100 ease-out`,
   imgContainer: `h-2/3 w-full overflow-hidden flex justify-center items-center`,

@@ -5,6 +5,11 @@ import { AiOutlineUp, AiOutlineDown } from 'react-icons/ai'
 import { dummyEvents } from '../../static/dummyEvents'
 import EventItem from './itemActivity/EventItem'
 
+/*This is a React functional component called "ItemActivity" that renders a toggleable section displaying item activity. 
+The component uses several imported icons, the useState hook, and a dummy data of events imported from a static file. 
+The component's JSX structure includes a wrapper div, a title div that toggles the visibility of the activity table when clicked, a filter div, 
+and a table header div. Inside the activity table, the component maps over the dummyEvents array and renders an EventItem component for each event, passing the event object as a prop. Each EventItem component will display information about the event, 
+such as the event name, price, from and to address, and date.*/
 const style = {
   wrapper: `w-full mt-8 border border-[#151b22] rounded-xl bg-[#303339] overflow-hidden `,
   title: `bg-[#262b2f] px-6 py-4 flex items-center`,

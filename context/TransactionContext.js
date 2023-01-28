@@ -7,6 +7,11 @@ import { useRouter } from 'next/router'
 import WelcomeUser from '../components/toast/WelcomeUser'
 import Loading from '../components/toast/Loading'
 
+/* The component uses the useEffect and useState hooks to handle state and lifecycle methods. 
+It also imports the ethers library to interact with the Ethereum network and the SanityClient to interact with a Sanity database. 
+The component has several methods such as connectWallet, checkIfWalletIsConnected, and sendTransaction that handle connecting to a wallet, checking if a wallet is connected,
+ and sending transactions respectively.*/
+
 export const TransactionContext = React.createContext()
 
 let eth

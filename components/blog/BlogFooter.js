@@ -3,7 +3,14 @@ import React from 'react'
 import { BsInstagram, BsTelegram, BsTwitter } from 'react-icons/bs'
 import { FaDiscord } from "react-icons/fa"
 
-
+/*This code defines a React component called "BlogFooter" that is used to display a footer on a webpage. 
+The component includes a "Buy NFTs" button that links to a page displaying all available NFTs, 
+and a section displaying social media icons linking to the company's Telegram, Instagram, Twitter, 
+and Discord accounts. The component makes use of several external libraries, 
+such as "next/link" for linking between pages, "react-icons/bs"
+ and "react-icons/fa" for displaying the social media icons, and "react" library. 
+ The component also uses CSS-in-JS styling with a variable called "style" that defines the className for the social media icons,
+  to give them a consistent design and behavior throughout the component.*/
 const style = {
     SocialIcons: `text-3xl px-2 cursor-pointer`,
 }
