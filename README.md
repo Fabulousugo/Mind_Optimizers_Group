@@ -1,21 +1,21 @@
-# Nft Marketplace
+# Immunyty<br/>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-) -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 A Web3.0 Block-chain application to discover, collect, and sell extraordinary NFTs. The Decentralized application was built on the Ethereum Blockchain with Nextjs, and Smart contracts written in Solidity.
 
 
-**Project Title**
 
-# Immunyty<br/>
+> ## ⭐ Show Your Support
+> If you like this project, do not forget to give ⭐s. So it can get more attention and get more support from the community. Don't underestimate one star, one star you give will convince others to give the project another star.
 
-**Project Description**
+<!-- 
+## 💪 Motivation
 
-A decentralized social media  platform built on top of the [Lens Protocol](https://www.lens.xyz/).
+<p>
+I aim to create an open and safe nft marketplace for everyone. This will be a challenge for both me and the contributors. Together we will create an open source, reliable and beautiful nft marketplace example. The purpose of this project is not to operate an nft marketplace, but to create a template for nft marketplaces. Thus, many nft marketplaces can be easily created by forking and modifying this template. This will be beneficial for us to support the artists. We can only succeed in the world by coming from different areas and joining our forces.
+</p> -->
 
-- Own your [Profile](https://docs.lens.xyz/docs/profile) as an NFT.<br/>
-- Write posts in [markdown](https://www.markdownguide.org/), store them on [IPFS](https://portal.thirdweb.com/storage) and attach them to your profile NFT inside a [mapping](https://docs.soliditylang.org/en/v0.8.17/types.html#mapping-types).<br/>
-- View a Personalised [Feed](https://docs.lens.xyz/docs/timeline) of posts from creators you follow.
 **Project Snapshot**
 
 
