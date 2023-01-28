@@ -1,10 +1,10 @@
 
-  
+
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.0;
 
-/*This code is a smart contract written in the Solidity programming language. It defines a contract called "Transactions" with a single event called "Transfer" and a function called "publishTransaction".
+/*This   smart contract written in the Solidity programming language. It defines a contract called "Transactions" with a single event called "Transfer" and a function called "publishTransaction".
 
 The "Transfer" event has 6 parameters:
 
@@ -27,10 +27,10 @@ The function is defined as "public", which means that it can be called by any ex
 
 This function emit the Transfer event with the msg.sender, receiver, amount, message, block.timestamp and keyword as arguments.*/
     function publishTransaction(address payable receiver, uint amount, string memory message, string memory keyword) public {
-        emit Transfer(msg.sender, receiver, amount, message, block.timestamp, keyword); 
+        emit Transfer(msg.sender, receiver, amount, message, block.timestamp, keyword);
     }
 }
 
-/*This contract is intended to be used as a way to keep track of transactions between different addresses on the blockchain, including the details of the transaction, such as 
-the sender and receiver addresses, the amount transferred, a message, 
+/*This contract is intended to be used as a way to keep track of transactions between different addresses on the blockchain, including the details of the transaction, such as
+the sender and receiver addresses, the amount transferred, a message,
 a keyword and the timestamp of the block in which the transaction was included.*/
