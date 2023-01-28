@@ -68,7 +68,7 @@ I aim to create an open and safe nft marketplace for everyone. This will be a ch
 -Fabulousugo(https://github.com/fabulousugo)<br/>
 Amarannaya(https://github.com/amarannaya)<br/>
 Kosiso98(https://github.com/Kosiso98)<br/>
-David(dave4sure)<br/>
+David((https://github.com/davkay22))<br/>
 
 ## 🎉 Roadmap
 
