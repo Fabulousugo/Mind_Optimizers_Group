@@ -16,11 +16,33 @@ A Web3.0 Block-chain application to discover, collect, and sell extraordinary NF
 We aim to create an open and safe nft marketplace for everyone. This will be a challenge for both the group and the contributors. Together we will create an open source, reliable and beautiful nft marketplace example. The purpose of this project is not to operate an nft marketplace, but to create a template for nft marketplaces. Thus, many nft marketplaces can be easily created by forking and modifying this template. This will be beneficial for us to support the artists. We can only succeed in the world by coming from different areas and joining our forces.
 </p> --><br/>
 
-## **Demo**
+
+## **Site Demo**
+
+**Overview of Pages**
+
+
+
+https://user-images.githubusercontent.com/113071405/215872219-db06f30e-4e28-4a49-ab78-e33b79b549ef.mp4
+
+
+
 <br/>
 
+**Explore**
 
-https://user-images.githubusercontent.com/113071405/215870376-8ec76aac-1a8d-4679-aabf-31225ec4d48e.mp4 <br/>
+
+
+https://user-images.githubusercontent.com/113071405/215872241-87466295-aec0-4f93-961a-f6a5f20fc20d.mp4
+
+
+
+
+
+
+
+
+<br/>
 
 
 
